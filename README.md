@@ -19,3 +19,6 @@ Sky Watcher is a simple weather lookup web application. Users can enter the name
 1. Open the webpage and type a valid city name into the input field.
 2. Click the search button to display the current weather information for that city.
 3. If an invalid city name is entered, an error message will be displayed.
+
+## Screenshots
+![Screen](screenshots/screenshot_1.png)
