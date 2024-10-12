@@ -20,5 +20,11 @@ Sky Watcher is a simple weather lookup web application. Users can enter the name
 2. Click the search button to display the current weather information for that city.
 3. If an invalid city name is entered, an error message will be displayed.
 
+## Demo
+
+You can view the live demo of this project by clicking the link below:
+
+[Click here to view the demo](https://skylaryhu.github.io/SkyWatcher/)
+
 ## Screenshots
 ![Screen](screenshots/screenshot_1.png)
